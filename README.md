@@ -117,7 +117,7 @@ Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
-*"El código es poesía cuando resuelve un problema real."*
+*"El infinito nunca lo veremos pero lo comprenderemos."*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=JuanEstebanHerreraH&color=2c5364&style=flat-square&label=Visitas+al+perfil)
 
