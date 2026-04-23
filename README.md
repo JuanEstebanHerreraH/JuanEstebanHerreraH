@@ -105,9 +105,9 @@ Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las 
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-JuanEstebanHerreraH-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanEstebanHerreraH)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/juan-esteban-herrera-herrera)
-[![Email](https://img.shields.io/badge/Email-Escribir-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](estebanherreraherrera8@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-esteban-herrera-herrera)
+
+[![Email](https://img.shields.io/badge/Email-Escribir-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estebanherreraherrera8@email.com)
 
 </div>
 
