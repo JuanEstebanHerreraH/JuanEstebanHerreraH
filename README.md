@@ -6,7 +6,6 @@
 
 ---
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
 ### `> whoami`
 
@@ -87,20 +86,6 @@ Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las 
 
 </div>
 
----
-
-## 🎯 Objetivos 2025
-
-```
-[ ] Obtener certificación Cisco CCNA
-[ ] Profundizar en arquitecturas limpias (Clean Architecture, SOLID)
-[ ] Contribuir a proyectos open source
-[ ] Aprender sobre seguridad informática y criptografía aplicada
-[ ] Construir un portafolio con al menos 5 proyectos completos
-[ ] Conseguir mis primeras colaboraciones o práctica profesional
-```
-
----
 
 ## 📚 Áreas de Interés
 
