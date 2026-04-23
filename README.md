@@ -63,9 +63,9 @@ Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las 
 
 | Proyecto | Descripción | Stack | Estado |
 |---|---|---|---|
-| [⬡ Network Engineering Assistant](https://github.com/tu-usuario/network-engineering-assistant) | App móvil y de escritorio para subnetting, VLANs, NAT, ACL y configuración Cisco IOS con modo aprendizaje guiado | `Flutter` `Dart` `Android` `Windows` | ✅ Publicado |
-| [☕ Café Almacén](https://github.com/tu-usuario/cafe-almacen) | Plataforma web de gestión integral para café especial: desde cosecha hasta venta final, con trazabilidad completa | `Next.js` `TypeScript` `Supabase` `Vercel` | ✅ Publicado |
-| [🔐 VaultSecurity](https://github.com/JuanEstebanHerreraH/VaultSecurity) | App de escritorio 100% offline con encriptación AES-256-CBC para almacenamiento seguro de archivos y notas | `Electron` `Node.js` `JavaScript` `Windows` | ✅ Publicado |
+| [⬡ Network Engineering Assistant](https://github.com/JuanEstebanHerreraH/Network_Enginnering_Assistant.git) | App móvil y de escritorio para subnetting, VLANs, NAT, ACL y configuración Cisco IOS con modo aprendizaje guiado | `Flutter` `Dart` `Android` `Windows` | ✅ Publicado |
+| [☕ Café Almacén](https://github.com/JuanEstebanHerreraH/Sistema_Trazabilidad_Cafetero.git) | Plataforma web de gestión integral para café especial: desde cosecha hasta venta final, con trazabilidad completa | `Next.js` `TypeScript` `Supabase` `Vercel` | ✅ Publicado |
+| [🔐 VaultSecurity](https://github.com/JuanEstebanHerreraH/VaultSecurity.git) | App de escritorio 100% offline con encriptación AES-256-CBC para almacenamiento seguro de archivos y notas | `Electron` `Node.js` `JavaScript` `Windows` | ✅ Publicado |
 
 </div>
 
