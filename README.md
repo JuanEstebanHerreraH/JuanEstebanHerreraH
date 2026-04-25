@@ -6,6 +6,7 @@
 
 ---
 
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
 ### `> whoami`
 
@@ -30,12 +31,15 @@ Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las 
 <div align="center">
 
 ### Lenguajes
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=w3c&logoColor=white)
 
 ### Frameworks & Librerías
+![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-ED8B00?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -43,10 +47,14 @@ Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las 
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
 ### Bases de Datos & Backend
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### DevOps & Herramientas
+![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -63,29 +71,36 @@ Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las 
 
 | Proyecto | Descripción | Stack | Estado |
 |---|---|---|---|
-| [⬡ Network Engineering Assistant](https://github.com/JuanEstebanHerreraH/Network_Enginnering_Assistant.git) | App móvil y de escritorio para subnetting, VLANs, NAT, ACL y configuración Cisco IOS con modo aprendizaje guiado | `Flutter` `Dart` `Android` `Windows` | ✅ Publicado |
-| [☕ Café Almacén](https://github.com/JuanEstebanHerreraH/Sistema_Trazabilidad_Cafetero.git) | Plataforma web de gestión integral para café especial: desde cosecha hasta venta final, con trazabilidad completa | `Next.js` `TypeScript` `Supabase` `Vercel` | ✅ Publicado |
-| [🔐 VaultSecurity](https://github.com/JuanEstebanHerreraH/VaultSecurity.git) | App de escritorio 100% offline con encriptación AES-256-CBC para almacenamiento seguro de archivos y notas | `Electron` `Node.js` `JavaScript` `Windows` | ✅ Publicado |
+| [⬡ Network Engineering Assistant](https://github.com/tu-usuario/network-engineering-assistant) | App móvil y de escritorio para subnetting, VLANs, NAT, ACL y configuración Cisco IOS con modo aprendizaje guiado | `Flutter` `Dart` `Android` `Windows` | ✅ Publicado |
+| [☕ Café Almacén](https://github.com/tu-usuario/cafe-almacen) | Plataforma web de gestión integral para café especial: desde cosecha hasta venta final, con trazabilidad completa | `Next.js` `TypeScript` `Supabase` `Vercel` | ✅ Publicado |
+| [🔐 VaultSecurity](https://github.com/JuanEstebanHerreraH/VaultSecurity) | App de escritorio 100% offline con encriptación AES-256-CBC para almacenamiento seguro de archivos y notas | `Electron` `Node.js` `JavaScript` `Windows` | ✅ Publicado |
 
 </div>
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 🔭 ¿En qué estoy ahora?
 
-<div align="center">
+```text
+🎓 Estudiando     Ingeniería de Sistemas — CUN, Bogotá
+☕ Construyendo   Nuevos proyectos full-stack y multiplataforma
+📡 Aprendiendo    Redes Cisco con enfoque en certificación CCNA
+☁️  Explorando    Arquitecturas cloud-native con AWS y Docker
+🔐 Investigando   Seguridad informática y criptografía aplicada
+```
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanEstebanHerreraH&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanEstebanHerreraH&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+## 🎯 Objetivos 2025
 
-</div>
+```
+[ ] Obtener certificación Cisco CCNA
+[ ] Profundizar en arquitecturas limpias (Clean Architecture, SOLID)
+[ ] Contribuir a proyectos open source
+[ ] Aprender sobre seguridad informática y criptografía aplicada
+[ ] Construir un portafolio con al menos 5 proyectos completos
+[ ] Conseguir mis primeras colaboraciones o práctica profesional
+```
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanEstebanHerreraH&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-
-</div>
-
+---
 
 ## 📚 Áreas de Interés
 
@@ -105,9 +120,9 @@ Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-esteban-herrera-herrera)
-
-[![Email](https://img.shields.io/badge/Email-Escribir-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estebanherreraherrera8@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-JuanEstebanHerreraH-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanEstebanHerreraH)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+[![Email](https://img.shields.io/badge/Email-Escribir-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
 
 </div>
 
@@ -117,7 +132,7 @@ Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
-*"El infinito nunca lo veremos pero lo comprenderemos."*
+*"El código es poesía cuando resuelve un problema real."*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=JuanEstebanHerreraH&color=2c5364&style=flat-square&label=Visitas+al+perfil)
 
