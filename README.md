@@ -24,7 +24,7 @@ Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las 
 
 ---
 
-## 🧰 Stack & Herramientas
+## 🧰 Tecnologías & Herramientas
 
 <div align="center">
 
@@ -36,7 +36,7 @@ Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Frameworks & Librerías
+### Frameworks
 #### 🌐 Web
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
