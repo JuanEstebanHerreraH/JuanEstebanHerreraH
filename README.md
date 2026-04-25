@@ -75,31 +75,6 @@ Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las 
 
 </div>
 
----
-
-## 🔭 ¿En qué estoy ahora?
-
-```text
-🎓 Estudiando     Ingeniería de Sistemas — CUN, Bogotá
-☕ Construyendo   Nuevos proyectos full-stack y multiplataforma
-📡 Aprendiendo    Redes Cisco con enfoque en certificación CCNA
-☁️  Explorando    Arquitecturas cloud-native con AWS y Docker
-🔐 Investigando   Seguridad informática y criptografía aplicada
-```
-
-## 🎯 Objetivos 2025
-
-```
-[ ] Obtener certificación Cisco CCNA
-[ ] Profundizar en arquitecturas limpias (Clean Architecture, SOLID)
-[ ] Contribuir a proyectos open source
-[ ] Aprender sobre seguridad informática y criptografía aplicada
-[ ] Construir un portafolio con al menos 5 proyectos completos
-[ ] Conseguir mis primeras colaboraciones o práctica profesional
-```
-
----
-
 ## 📚 Áreas de Interés
 
 <div align="center">
