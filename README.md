@@ -59,12 +59,19 @@ Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las 
 </div>
 
 ---
+## ⚙️ Enfoque Técnico
 
-## ⚙️ Enfoque de Desarrollo
+- Desarrollo de aplicaciones **offline-first** (ejecución local sin dependencia de red)
+- Construcción de software **multiplataforma** (desktop + mobile)
+- Aplicación de **arquitecturas limpias y modulares**
+- Gestión segura de datos (**encriptación y almacenamiento local**)
+- Enfoque en **rendimiento, privacidad y control del usuario**
 
-- Aplicaciones **offline-first** (ejecución local sin dependencia de red)
-- Manejo de almacenamiento local y persistencia segura
-- Arquitecturas enfocadas en privacidad y control del usuario
+### 🚀 Líneas de Trabajo
+
+- 🔐 Software seguro y ejecución 100% local  
+- 🌐 Sistemas con integración backend + frontend moderna  
+- 📡 Redes y automatización (en progreso — CCNA path)
 
 ---
 
