@@ -7,12 +7,10 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ ESPAÑOL ═══ -->
+<!-- ESPAÑOL -->
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20soy%20Juan%20Esteban%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Estudiante%20de%20Ingeniería%20de%20Sistemas%20·%20Builder%20en%20formación&descAlignY=58&descSize=16&descColor=a8d8ea" width="100%"/>
-
 </div>
 
 ## 🇨🇴 Juan Esteban Herrera · Ingeniería de Sistemas
@@ -40,6 +38,7 @@ Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las 
 ### Lenguajes
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -97,7 +96,7 @@ Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las 
 |---|---|---|---|
 | [⬡ Network Engineering Assistant](https://github.com/tu-usuario/network-engineering-assistant) | App móvil y de escritorio para subnetting, VLANs, NAT, ACL y configuración Cisco IOS con modo aprendizaje guiado | `Flutter` `Dart` `Android` `Windows` | ✅ Publicado |
 | [☕ Café Almacén](https://github.com/tu-usuario/cafe-almacen) | Plataforma web de gestión integral para café especial: desde cosecha hasta venta final, con trazabilidad completa | `Next.js` `TypeScript` `Supabase` `Vercel` | ✅ Publicado |
-| [🔐 VaultSecurity](https://github.com/JuanEstebanHerreraH/VaultSecurity) | App de escritorio 100% offline con encriptación AES-256-CBC para almacenamiento seguro de archivos y notas | `Electron` `Node.js` `JavaScript` `Windows` | ✅ Publicado |
+| [⚡ ApEn](https://github.com/JuanEstebanHerreraH/ApEn---App-File-Environment) | Hub de productividad personal para Windows: launcher de apps con etiquetas y favoritos, más organizador automático de archivos por tipo | `C#` `.NET 8` `WPF` `MVVM` `Windows` | ✅ Publicado |
 
 </div>
 
@@ -121,17 +120,17 @@ Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-esteban-herrera-herrera)
 [![Email](https://img.shields.io/badge/Email-Escribir-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estebanherreraherrera8@email.com)
+[![Portafolio](https://img.shields.io/badge/🌐_Portafolio-juanestebanherrerah.github.io-6C63FF?style=for-the-badge)](https://juanestebanherrerah.github.io/Portafolio/)
+[![Portafolio](https://img.shields.io/badge/🌐_Portafolio-Ver_sitio_web-6C63FF?style=for-the-badge)](https://juanestebanherrerah.github.io/Portafolio/)
 
 </div>
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
 *"El infinito nunca lo veremos pero lo comprenderemos."*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=JuanEstebanHerreraH&color=2c5364&style=flat-square&label=Visitas+al+perfil)
-
 </div>
 
 <br/>
@@ -139,12 +138,10 @@ Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las 
 ---
 ---
 
-<!-- ═══════════════════════════════════════════════════════ ENGLISH ═══ -->
+<!-- ENGLISH -->
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20I'm%20Juan%20Esteban%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineering%20Student%20·%20Builder%20in%20Progress&descAlignY=58&descSize=16&descColor=a8d8ea" width="100%"/>
-
 </div>
 
 ## 🇺🇸 Juan Esteban Herrera · Systems Engineering
@@ -172,6 +169,7 @@ Currently diving deep into the **Flutter** and **Next.js** ecosystems, and explo
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -229,7 +227,7 @@ Currently diving deep into the **Flutter** and **Next.js** ecosystems, and explo
 |---|---|---|---|
 | [⬡ Network Engineering Assistant](https://github.com/tu-usuario/network-engineering-assistant) | Mobile & desktop app for subnetting, VLANs, NAT, ACL and Cisco IOS configuration with guided learning mode | `Flutter` `Dart` `Android` `Windows` | ✅ Published |
 | [☕ Café Almacén](https://github.com/tu-usuario/cafe-almacen) | Full-featured web platform for specialty coffee management: from harvest to final sale, with complete traceability | `Next.js` `TypeScript` `Supabase` `Vercel` | ✅ Published |
-| [🔐 VaultSecurity](https://github.com/JuanEstebanHerreraH/VaultSecurity) | 100% offline desktop app with AES-256-CBC encryption for secure file and note storage | `Electron` `Node.js` `JavaScript` `Windows` | ✅ Published |
+| [⚡ ApEn](https://github.com/JuanEstebanHerreraH/ApEn---App-File-Environment) | Personal productivity hub for Windows: app launcher with tags & favorites, plus automatic file organizer by type | `C#` `.NET 8` `WPF` `MVVM` `Windows` | ✅ Published |
 
 </div>
 
@@ -253,15 +251,15 @@ Currently diving deep into the **Flutter** and **Next.js** ecosystems, and explo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-esteban-herrera-herrera)
 [![Email](https://img.shields.io/badge/Email-Write_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estebanherreraherrera8@email.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-juanestebanherrerah.github.io-6C63FF?style=for-the-badge)](https://juanestebanherrerah.github.io/Portafolio/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_website-6C63FF?style=for-the-badge)](https://juanestebanherrerah.github.io/Portafolio/)
 
 </div>
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
 *"We will never see infinity — but we can understand it."*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=JuanEstebanHerreraH&color=2c5364&style=flat-square&label=Profile+views)
-
 </div>
