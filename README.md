@@ -121,7 +121,7 @@ Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-esteban-herrera-herrera)
 [![Email](https://img.shields.io/badge/Email-Escribir-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estebanherreraherrera8@email.com)
 [![Portafolio](https://img.shields.io/badge/🌐_Portafolio-juanestebanherrerah.github.io-6C63FF?style=for-the-badge)](https://juanestebanherrerah.github.io/Portafolio/)
-[![Portafolio](https://img.shields.io/badge/🌐_Portafolio-Ver_sitio_web-6C63FF?style=for-the-badge)](https://juanestebanherrerah.github.io/Portafolio/)
+
 
 </div>
 
@@ -252,7 +252,7 @@ Currently diving deep into the **Flutter** and **Next.js** ecosystems, and explo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-esteban-herrera-herrera)
 [![Email](https://img.shields.io/badge/Email-Write_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estebanherreraherrera8@email.com)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-juanestebanherrerah.github.io-6C63FF?style=for-the-badge)](https://juanestebanherrerah.github.io/Portafolio/)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_website-6C63FF?style=for-the-badge)](https://juanestebanherrerah.github.io/Portafolio/)
+
 
 </div>
 
