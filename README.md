@@ -1,10 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20soy%20Juan%20Esteban%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Estudiante%20de%20Ingeniería%20de%20Sistemas%20·%20Builder%20en%20formación&descAlignY=58&descSize=16&descColor=a8d8ea" width="100%"/>
+[![ES](https://img.shields.io/badge/🇨🇴_Español-Ver_en_Español-203a43?style=for-the-badge)](#-juan-esteban-herrera--ingeniería-de-sistemas)
+[![EN](https://img.shields.io/badge/🇺🇸_English-Read_in_English-2c5364?style=for-the-badge)](#-juan-esteban-herrera--systems-engineering)
 
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════ ESPAÑOL ═══ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20soy%20Juan%20Esteban%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Estudiante%20de%20Ingeniería%20de%20Sistemas%20·%20Builder%20en%20formación&descAlignY=58&descSize=16&descColor=a8d8ea" width="100%"/>
+
+</div>
+
+## 🇨🇴 Juan Esteban Herrera · Ingeniería de Sistemas
 
 ### `> whoami`
 
@@ -19,8 +30,6 @@ estado:      Aprendiendo · Construyendo · Mejorando
 Soy estudiante de Ingeniería de Sistemas apasionado por construir soluciones reales con código. Me interesa el desarrollo de software desde la arquitectura hasta el despliegue, pasando por UX, seguridad y redes. Creo que la mejor forma de aprender es haciendo — por eso cada proyecto que construyo intenta resolver un problema concreto.
 
 Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las redes con enfoque en certificaciones **CCNA**.
-
-<br clear="right"/>
 
 ---
 
@@ -59,9 +68,11 @@ Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 </div>
 
 ---
+
 ## ⚙️ Enfoque Técnico
 
 - Desarrollo de aplicaciones **offline-first** (ejecución local sin dependencia de red)
@@ -109,12 +120,9 @@ Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-esteban-herrera-herrera)
-
 [![Email](https://img.shields.io/badge/Email-Escribir-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estebanherreraherrera8@email.com)
 
 </div>
-
----
 
 <div align="center">
 
@@ -123,5 +131,137 @@ Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las 
 *"El infinito nunca lo veremos pero lo comprenderemos."*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=JuanEstebanHerreraH&color=2c5364&style=flat-square&label=Visitas+al+perfil)
+
+</div>
+
+<br/>
+
+---
+---
+
+<!-- ═══════════════════════════════════════════════════════ ENGLISH ═══ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20I'm%20Juan%20Esteban%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineering%20Student%20·%20Builder%20in%20Progress&descAlignY=58&descSize=16&descColor=a8d8ea" width="100%"/>
+
+</div>
+
+## 🇺🇸 Juan Esteban Herrera · Systems Engineering
+
+### `> whoami`
+
+```yaml
+name:        Juan Esteban Herrera
+role:        Systems Engineering Student
+university:  CUN — Corporación Unificada Nacional
+location:    Colombia 🇨🇴
+status:      Learning · Building · Improving
+```
+
+I'm a Systems Engineering student passionate about building real-world solutions with code. My interests span the full software development lifecycle — from architecture and UX through to security and deployment. I believe the best way to learn is by doing, which is why every project I build tries to solve a concrete problem.
+
+Currently diving deep into the **Flutter** and **Next.js** ecosystems, and exploring the world of networking with a focus on **CCNA** certification.
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Runtime & Platforms
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### Cloud & Deployment
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## ⚙️ Technical Focus
+
+- **Offline-first** application development (fully local, no network dependency)
+- **Cross-platform** software (desktop + mobile from a single codebase)
+- Clean and modular **software architecture**
+- Secure data management (**encryption & local storage**)
+- Strong emphasis on **performance, privacy, and user control**
+
+### 🚀 Current Work Areas
+
+- 🔐 Secure software with 100% local execution  
+- 🌐 Systems with modern backend + frontend integration  
+- 📡 Networking & automation (in progress — CCNA path)
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| [⬡ Network Engineering Assistant](https://github.com/tu-usuario/network-engineering-assistant) | Mobile & desktop app for subnetting, VLANs, NAT, ACL and Cisco IOS configuration with guided learning mode | `Flutter` `Dart` `Android` `Windows` | ✅ Published |
+| [☕ Café Almacén](https://github.com/tu-usuario/cafe-almacen) | Full-featured web platform for specialty coffee management: from harvest to final sale, with complete traceability | `Next.js` `TypeScript` `Supabase` `Vercel` | ✅ Published |
+| [🔐 VaultSecurity](https://github.com/JuanEstebanHerreraH/VaultSecurity) | 100% offline desktop app with AES-256-CBC encryption for secure file and note storage | `Electron` `Node.js` `JavaScript` `Windows` | ✅ Published |
+
+</div>
+
+## 📚 Areas of Interest
+
+<div align="center">
+
+| 🌐 Networking & Infrastructure | 💻 Software Development | 🔐 Security |
+|:---:|:---:|:---:|
+| IPv4/IPv6 Subnetting | Cross-platform apps | AES-256 Encryption |
+| VLANs · Routing · NAT | Clean architecture | Secure data handling |
+| OSPF · RIP Protocols | Functional UI/UX | 100% offline systems |
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-esteban-herrera-herrera)
+[![Email](https://img.shields.io/badge/Email-Write_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estebanherreraherrera8@email.com)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+
+*"We will never see infinity — but we can understand it."*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=JuanEstebanHerreraH&color=2c5364&style=flat-square&label=Profile+views)
 
 </div>
