@@ -43,6 +43,7 @@ Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Frameworks & Librerías
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -97,6 +98,7 @@ Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las 
 | [⬡ Network Engineering Assistant](https://github.com/tu-usuario/network-engineering-assistant) | App móvil y de escritorio para subnetting, VLANs, NAT, ACL y configuración Cisco IOS con modo aprendizaje guiado | `Flutter` `Dart` `Android` `Windows` | ✅ Publicado |
 | [☕ Café Almacén](https://github.com/tu-usuario/cafe-almacen) | Plataforma web de gestión integral para café especial: desde cosecha hasta venta final, con trazabilidad completa | `Next.js` `TypeScript` `Supabase` `Vercel` | ✅ Publicado |
 | [⚡ ApEn](https://github.com/JuanEstebanHerreraH/ApEn---App-File-Environment) | Hub de productividad personal para Windows: launcher de apps con etiquetas y favoritos, más organizador automático de archivos por tipo | `C#` `.NET 8` `WPF` `MVVM` `Windows` | ✅ Publicado |
+| [🗂️ FileWatch](https://github.com/JuanEstebanHerreraH/FileWatch) | Versionado automático de archivos para Windows — snapshots comprimidos, historial y restauración sin depender del editor | `Rust` `C#` `.NET 8` `WPF` `SQLite` | ✅ Publicado |
 
 </div>
 
@@ -121,7 +123,6 @@ Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-esteban-herrera-herrera)
 [![Email](https://img.shields.io/badge/Email-Escribir-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estebanherreraherrera8@email.com)
 [![Portafolio](https://img.shields.io/badge/🌐_Portafolio-juanestebanherrerah.github.io-6C63FF?style=for-the-badge)](https://juanestebanherrerah.github.io/Portafolio/)
-
 
 </div>
 
@@ -174,6 +175,7 @@ Currently diving deep into the **Flutter** and **Next.js** ecosystems, and explo
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -228,6 +230,7 @@ Currently diving deep into the **Flutter** and **Next.js** ecosystems, and explo
 | [⬡ Network Engineering Assistant](https://github.com/tu-usuario/network-engineering-assistant) | Mobile & desktop app for subnetting, VLANs, NAT, ACL and Cisco IOS configuration with guided learning mode | `Flutter` `Dart` `Android` `Windows` | ✅ Published |
 | [☕ Café Almacén](https://github.com/tu-usuario/cafe-almacen) | Full-featured web platform for specialty coffee management: from harvest to final sale, with complete traceability | `Next.js` `TypeScript` `Supabase` `Vercel` | ✅ Published |
 | [⚡ ApEn](https://github.com/JuanEstebanHerreraH/ApEn---App-File-Environment) | Personal productivity hub for Windows: app launcher with tags & favorites, plus automatic file organizer by type | `C#` `.NET 8` `WPF` `MVVM` `Windows` | ✅ Published |
+| [🗂️ FileWatch](https://github.com/JuanEstebanHerreraH/FileWatch) | Automatic file versioning for Windows — compressed snapshots, history and restore without relying on the editor | `Rust` `C#` `.NET 8` `WPF` `SQLite` | ✅ Published |
 
 </div>
 
@@ -252,7 +255,6 @@ Currently diving deep into the **Flutter** and **Next.js** ecosystems, and explo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-esteban-herrera-herrera)
 [![Email](https://img.shields.io/badge/Email-Write_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estebanherreraherrera8@email.com)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-juanestebanherrerah.github.io-6C63FF?style=for-the-badge)](https://juanestebanherrerah.github.io/Portafolio/)
-
 
 </div>
 
