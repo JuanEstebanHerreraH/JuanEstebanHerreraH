@@ -44,17 +44,21 @@ Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 
 ### Frameworks & Librerías
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Runtime & Plataformas
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 
 ### Bases de Datos
@@ -95,7 +99,8 @@ Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las 
 
 | Proyecto | Descripción | Stack | Estado |
 |---|---|---|---|
-| [⬡ Network Engineering Assistant](https://github.com/tu-usuario/network-engineering-assistant) | App móvil y de escritorio para subnetting, VLANs, NAT, ACL y configuración Cisco IOS con modo aprendizaje guiado | `Flutter` `Dart` `Android` `Windows` | ✅ Publicado |
+| [⬡ Vlanets](https://github.com/JuanEstebanHerreraH/Vlanets) | App móvil y de escritorio para subnetting, VLANs, NAT, ACL y configuración Cisco IOS con modo aprendizaje guiado | `Flutter` `Dart` `Android` `Windows` | ✅ Publicado |
+| [🎨 iyiris](https://github.com/JuanEstebanHerreraH/Iyiris) | Herramienta profesional de diseño de paletas de color con verificación WCAG, simulación de daltonismo y exportación lista para producción — sin backend | `SvelteKit` `TypeScript` `Tailwind CSS` `Tauri` `Vercel` | ✅ Publicado |
 | [☕ Café Almacén](https://github.com/tu-usuario/cafe-almacen) | Plataforma web de gestión integral para café especial: desde cosecha hasta venta final, con trazabilidad completa | `Next.js` `TypeScript` `Supabase` `Vercel` | ✅ Publicado |
 | [⚡ ApEn](https://github.com/JuanEstebanHerreraH/ApEn---App-File-Environment) | Hub de productividad personal para Windows: launcher de apps con etiquetas y favoritos, más organizador automático de archivos por tipo | `C#` `.NET 8` `WPF` `MVVM` `Windows` | ✅ Publicado |
 | [🗂️ FileWatch](https://github.com/JuanEstebanHerreraH/FileWatch) | Versionado automático de archivos para Windows — snapshots comprimidos, historial y restauración sin depender del editor | `Rust` `C#` `.NET 8` `WPF` `SQLite` | ✅ Publicado |
@@ -176,17 +181,21 @@ Currently diving deep into the **Flutter** and **Next.js** ecosystems, and explo
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Runtime & Platforms
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 
 ### Databases
@@ -227,7 +236,8 @@ Currently diving deep into the **Flutter** and **Next.js** ecosystems, and explo
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| [⬡ Network Engineering Assistant](https://github.com/tu-usuario/network-engineering-assistant) | Mobile & desktop app for subnetting, VLANs, NAT, ACL and Cisco IOS configuration with guided learning mode | `Flutter` `Dart` `Android` `Windows` | ✅ Published |
+| [⬡ Vlanets](https://github.com/JuanEstebanHerreraH/Vlanets) | Mobile & desktop app for subnetting, VLANs, NAT, ACL and Cisco IOS configuration with guided learning mode | `Flutter` `Dart` `Android` `Windows` | ✅ Published |
+| [🎨 iyiris](https://github.com/JuanEstebanHerreraH/Iyiris) | Professional color palette design tool with WCAG contrast checking, colorblind simulation and production-ready export — no backend | `SvelteKit` `TypeScript` `Tailwind CSS` `Tauri` `Vercel` | ✅ Published |
 | [☕ Café Almacén](https://github.com/tu-usuario/cafe-almacen) | Full-featured web platform for specialty coffee management: from harvest to final sale, with complete traceability | `Next.js` `TypeScript` `Supabase` `Vercel` | ✅ Published |
 | [⚡ ApEn](https://github.com/JuanEstebanHerreraH/ApEn---App-File-Environment) | Personal productivity hub for Windows: app launcher with tags & favorites, plus automatic file organizer by type | `C#` `.NET 8` `WPF` `MVVM` `Windows` | ✅ Published |
 | [🗂️ FileWatch](https://github.com/JuanEstebanHerreraH/FileWatch) | Automatic file versioning for Windows — compressed snapshots, history and restore without relying on the editor | `Rust` `C#` `.NET 8` `WPF` `SQLite` | ✅ Published |
