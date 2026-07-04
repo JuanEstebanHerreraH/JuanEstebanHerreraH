@@ -109,24 +109,6 @@ Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las 
 
 </div>
 
-<details>
-<summary>🎨 <b>iyiris</b> — ver funciones en detalle</summary>
-
-<br/>
-
-| | Función | Descripción |
-|:---:|:---|:---|
-| 🎨 | **Paletas automáticas** | Análogos · Complementarios · Triádicos · Monocromáticos desde un color base |
-| ⚖️ | **Contraste WCAG 2.1** | Ratio en tiempo real · Niveles AA / AAA para texto normal, grande y UI |
-| 👁️ | **Simulación daltonismo** | Protanopía · Deuteranopía · Tritanopía · Acromatopsia — comparativa lado a lado |
-| 🖥️ | **Vista previa UI** | Paleta aplicada a navbar, cards, botones y badges en tema claro y oscuro |
-| 📦 | **Exportar** | CSS custom properties · Tailwind config · JSON · Tabla HEX / RGB / HSL / CMYK |
-| ⭐ | **Favoritos** | Guarda y carga paletas entre sesiones — sin servidor, solo `localStorage` |
-| 📱 | **Responsive** | Diseñado para desktop y móvil |
-| 📲 | **App Android** | APK compilado con Tauri 2.0 vía GitHub Actions |
-
-</details>
-
 ## 📚 Áreas de Interés
 
 <div align="center">
