@@ -139,20 +139,6 @@ Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las 
 
 </div>
 
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=JuanEstebanHerreraH&show_icons=true&hide_border=true&bg_color=0f2027&title_color=a8d8ea&text_color=ffffff&icon_color=24C8D8)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanEstebanHerreraH&layout=compact&hide_border=true&bg_color=0f2027&title_color=a8d8ea&text_color=ffffff)
-
-![Streak](https://streak-stats.demolab.com/?user=JuanEstebanHerreraH&hide_border=true&background=0f2027&stroke=203a43&ring=24C8D8&fire=24C8D8&currStreakLabel=a8d8ea&sideLabels=ffffff&dates=8899aa&currStreakNum=ffffff&sideNums=ffffff)
-
-</div>
-
----
 
 ## 🤝 Conectemos
 
