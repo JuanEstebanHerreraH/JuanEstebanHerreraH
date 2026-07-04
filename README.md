@@ -247,24 +247,6 @@ Currently diving deep into the **Flutter** and **Next.js** ecosystems, and explo
 
 </div>
 
-<details>
-<summary>🎨 <b>iyiris</b> — see full feature list</summary>
-
-<br/>
-
-| | Feature | Description |
-|:---:|:---|:---|
-| 🎨 | **Automatic palettes** | Analogous · Complementary · Triadic · Monochromatic from a base color |
-| ⚖️ | **WCAG 2.1 contrast** | Real-time ratio · AA / AAA levels for normal text, large text and UI |
-| 👁️ | **Colorblind simulation** | Protanopia · Deuteranopia · Tritanopia · Achromatopsia — side-by-side comparison |
-| 🖥️ | **UI preview** | Palette applied to navbar, cards, buttons and badges in light and dark themes |
-| 📦 | **Export** | CSS custom properties · Tailwind config · JSON · HEX / RGB / HSL / CMYK table |
-| ⭐ | **Favorites** | Save and load palettes across sessions — no server, just `localStorage` |
-| 📱 | **Responsive** | Designed for desktop and mobile |
-| 📲 | **Android app** | APK compiled with Tauri 2.0 via GitHub Actions |
-
-</details>
-
 ## 📚 Areas of Interest
 
 <div align="center">
@@ -277,20 +259,6 @@ Currently diving deep into the **Flutter** and **Next.js** ecosystems, and explo
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=JuanEstebanHerreraH&show_icons=true&hide_border=true&bg_color=0f2027&title_color=a8d8ea&text_color=ffffff&icon_color=24C8D8)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanEstebanHerreraH&layout=compact&hide_border=true&bg_color=0f2027&title_color=a8d8ea&text_color=ffffff)
-
-![Streak](https://streak-stats.demolab.com/?user=JuanEstebanHerreraH&hide_border=true&background=0f2027&stroke=203a43&ring=24C8D8&fire=24C8D8&currStreakLabel=a8d8ea&sideLabels=ffffff&dates=8899aa&currStreakNum=ffffff&sideNums=ffffff)
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
