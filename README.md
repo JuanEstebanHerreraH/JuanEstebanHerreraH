@@ -37,6 +37,7 @@ Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las 
 
 ### Lenguajes
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -87,8 +88,8 @@ Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las 
 
 ### 🚀 Líneas de Trabajo
 
-- 🔐 Software seguro y ejecución 100% local  
-- 🌐 Sistemas con integración backend + frontend moderna  
+- 🔐 Software seguro y ejecución 100% local
+- 🌐 Sistemas con integración backend + frontend moderna
 - 📡 Redes y automatización (en progreso — CCNA path)
 
 ---
@@ -99,13 +100,32 @@ Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las 
 
 | Proyecto | Descripción | Stack | Estado |
 |---|---|---|---|
+| [🎧 StanSsion](https://github.com/JuanEstebanHerreraH/StanSsion) | Espacio de audio ambiente para estudiar y concentrarse: mezcla de sonidos, radios del mundo, música propia con playlists, Pomodoro, racha de estudio y lienzo de notas — 100% local, sin cuentas | `React` `TypeScript` `Vite` `Tauri` `Web Audio API` | ✅ Publicado |
 | [⬡ Vlanets](https://github.com/JuanEstebanHerreraH/Vlanets) | App móvil y de escritorio para subnetting, VLANs, NAT, ACL y configuración Cisco IOS con modo aprendizaje guiado | `Flutter` `Dart` `Android` `Windows` | ✅ Publicado |
-| [🎨 iyiris](https://github.com/JuanEstebanHerreraH/Iyiris) | Herramienta profesional de diseño de paletas de color con verificación WCAG, simulación de daltonismo y exportación lista para producción — sin backend | `SvelteKit` `TypeScript` `Tailwind CSS` `Tauri` `Vercel` | ✅ Publicado |
-| [☕ Café Almacén](https://github.com/tu-usuario/cafe-almacen) | Plataforma web de gestión integral para café especial: desde cosecha hasta venta final, con trazabilidad completa | `Next.js` `TypeScript` `Supabase` `Vercel` | ✅ Publicado |
+| [🎨 iyiris](https://github.com/JuanEstebanHerreraH/Iyiris) | Herramienta profesional de paletas de color: verificación WCAG 2.1, simulación de daltonismo, vista previa de UI y exportación (CSS/Tailwind/JSON) — sin backend · web + escritorio + Android | `SvelteKit` `TypeScript` `Tailwind CSS` `Tauri` `Android` `Vercel` | ✅ Publicado |
+| [☕ Café Almacén](https://github.com/JuanEstebanHerreraH/Cafe-Almacen) | Plataforma web de gestión integral para café especial: desde cosecha hasta venta final, con trazabilidad completa | `Next.js` `TypeScript` `Supabase` `Vercel` | ✅ Publicado |
 | [⚡ ApEn](https://github.com/JuanEstebanHerreraH/ApEn---App-File-Environment) | Hub de productividad personal para Windows: launcher de apps con etiquetas y favoritos, más organizador automático de archivos por tipo | `C#` `.NET 8` `WPF` `MVVM` `Windows` | ✅ Publicado |
 | [🗂️ FileWatch](https://github.com/JuanEstebanHerreraH/FileWatch) | Versionado automático de archivos para Windows — snapshots comprimidos, historial y restauración sin depender del editor | `Rust` `C#` `.NET 8` `WPF` `SQLite` | ✅ Publicado |
 
 </div>
+
+<details>
+<summary>🎨 <b>iyiris</b> — ver funciones en detalle</summary>
+
+<br/>
+
+| | Función | Descripción |
+|:---:|:---|:---|
+| 🎨 | **Paletas automáticas** | Análogos · Complementarios · Triádicos · Monocromáticos desde un color base |
+| ⚖️ | **Contraste WCAG 2.1** | Ratio en tiempo real · Niveles AA / AAA para texto normal, grande y UI |
+| 👁️ | **Simulación daltonismo** | Protanopía · Deuteranopía · Tritanopía · Acromatopsia — comparativa lado a lado |
+| 🖥️ | **Vista previa UI** | Paleta aplicada a navbar, cards, botones y badges en tema claro y oscuro |
+| 📦 | **Exportar** | CSS custom properties · Tailwind config · JSON · Tabla HEX / RGB / HSL / CMYK |
+| ⭐ | **Favoritos** | Guarda y carga paletas entre sesiones — sin servidor, solo `localStorage` |
+| 📱 | **Responsive** | Diseñado para desktop y móvil |
+| 📲 | **App Android** | APK compilado con Tauri 2.0 vía GitHub Actions |
+
+</details>
 
 ## 📚 Áreas de Interés
 
@@ -121,12 +141,25 @@ Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las 
 
 ---
 
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=JuanEstebanHerreraH&show_icons=true&hide_border=true&bg_color=0f2027&title_color=a8d8ea&text_color=ffffff&icon_color=24C8D8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanEstebanHerreraH&layout=compact&hide_border=true&bg_color=0f2027&title_color=a8d8ea&text_color=ffffff)
+
+![Streak](https://streak-stats.demolab.com/?user=JuanEstebanHerreraH&hide_border=true&background=0f2027&stroke=203a43&ring=24C8D8&fire=24C8D8&currStreakLabel=a8d8ea&sideLabels=ffffff&dates=8899aa&currStreakNum=ffffff&sideNums=ffffff)
+
+</div>
+
+---
+
 ## 🤝 Conectemos
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-esteban-herrera-herrera)
-[![Email](https://img.shields.io/badge/Email-Escribir-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estebanherreraherrera8@email.com)
+[![Email](https://img.shields.io/badge/Email-Escribir-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estebanherreraherrera8@gmail.com)
 [![Portafolio](https://img.shields.io/badge/🌐_Portafolio-juanestebanherrerah.github.io-6C63FF?style=for-the-badge)](https://juanestebanherrerah.github.io/Portafolio/)
 
 </div>
@@ -174,6 +207,7 @@ Currently diving deep into the **Flutter** and **Next.js** ecosystems, and explo
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -224,8 +258,8 @@ Currently diving deep into the **Flutter** and **Next.js** ecosystems, and explo
 
 ### 🚀 Current Work Areas
 
-- 🔐 Secure software with 100% local execution  
-- 🌐 Systems with modern backend + frontend integration  
+- 🔐 Secure software with 100% local execution
+- 🌐 Systems with modern backend + frontend integration
 - 📡 Networking & automation (in progress — CCNA path)
 
 ---
@@ -236,13 +270,32 @@ Currently diving deep into the **Flutter** and **Next.js** ecosystems, and explo
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
+| [🎧 StanSsion](https://github.com/JuanEstebanHerreraH/StanSsion) | Ambient-audio space to study and focus: sound mixing, worldwide radios, your own music with playlists, Pomodoro, study streak and a notes canvas — 100% local, no accounts | `React` `TypeScript` `Vite` `Tauri` `Web Audio API` | ✅ Published |
 | [⬡ Vlanets](https://github.com/JuanEstebanHerreraH/Vlanets) | Mobile & desktop app for subnetting, VLANs, NAT, ACL and Cisco IOS configuration with guided learning mode | `Flutter` `Dart` `Android` `Windows` | ✅ Published |
-| [🎨 iyiris](https://github.com/JuanEstebanHerreraH/Iyiris) | Professional color palette design tool with WCAG contrast checking, colorblind simulation and production-ready export — no backend | `SvelteKit` `TypeScript` `Tailwind CSS` `Tauri` `Vercel` | ✅ Published |
-| [☕ Café Almacén](https://github.com/tu-usuario/cafe-almacen) | Full-featured web platform for specialty coffee management: from harvest to final sale, with complete traceability | `Next.js` `TypeScript` `Supabase` `Vercel` | ✅ Published |
+| [🎨 iyiris](https://github.com/JuanEstebanHerreraH/Iyiris) | Professional color palette tool: WCAG 2.1 contrast checking, colorblind simulation, UI preview and export (CSS/Tailwind/JSON) — no backend · web + desktop + Android | `SvelteKit` `TypeScript` `Tailwind CSS` `Tauri` `Android` `Vercel` | ✅ Published |
+| [☕ Café Almacén](https://github.com/JuanEstebanHerreraH/Cafe-Almacen) | Full-featured web platform for specialty coffee management: from harvest to final sale, with complete traceability | `Next.js` `TypeScript` `Supabase` `Vercel` | ✅ Published |
 | [⚡ ApEn](https://github.com/JuanEstebanHerreraH/ApEn---App-File-Environment) | Personal productivity hub for Windows: app launcher with tags & favorites, plus automatic file organizer by type | `C#` `.NET 8` `WPF` `MVVM` `Windows` | ✅ Published |
 | [🗂️ FileWatch](https://github.com/JuanEstebanHerreraH/FileWatch) | Automatic file versioning for Windows — compressed snapshots, history and restore without relying on the editor | `Rust` `C#` `.NET 8` `WPF` `SQLite` | ✅ Published |
 
 </div>
+
+<details>
+<summary>🎨 <b>iyiris</b> — see full feature list</summary>
+
+<br/>
+
+| | Feature | Description |
+|:---:|:---|:---|
+| 🎨 | **Automatic palettes** | Analogous · Complementary · Triadic · Monochromatic from a base color |
+| ⚖️ | **WCAG 2.1 contrast** | Real-time ratio · AA / AAA levels for normal text, large text and UI |
+| 👁️ | **Colorblind simulation** | Protanopia · Deuteranopia · Tritanopia · Achromatopsia — side-by-side comparison |
+| 🖥️ | **UI preview** | Palette applied to navbar, cards, buttons and badges in light and dark themes |
+| 📦 | **Export** | CSS custom properties · Tailwind config · JSON · HEX / RGB / HSL / CMYK table |
+| ⭐ | **Favorites** | Save and load palettes across sessions — no server, just `localStorage` |
+| 📱 | **Responsive** | Designed for desktop and mobile |
+| 📲 | **Android app** | APK compiled with Tauri 2.0 via GitHub Actions |
+
+</details>
 
 ## 📚 Areas of Interest
 
@@ -258,12 +311,25 @@ Currently diving deep into the **Flutter** and **Next.js** ecosystems, and explo
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=JuanEstebanHerreraH&show_icons=true&hide_border=true&bg_color=0f2027&title_color=a8d8ea&text_color=ffffff&icon_color=24C8D8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanEstebanHerreraH&layout=compact&hide_border=true&bg_color=0f2027&title_color=a8d8ea&text_color=ffffff)
+
+![Streak](https://streak-stats.demolab.com/?user=JuanEstebanHerreraH&hide_border=true&background=0f2027&stroke=203a43&ring=24C8D8&fire=24C8D8&currStreakLabel=a8d8ea&sideLabels=ffffff&dates=8899aa&currStreakNum=ffffff&sideNums=ffffff)
+
+</div>
+
+---
+
 ## 🤝 Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-esteban-herrera-herrera)
-[![Email](https://img.shields.io/badge/Email-Write_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estebanherreraherrera8@email.com)
+[![Email](https://img.shields.io/badge/Email-Write_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estebanherreraherrera8@gmail.com)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-juanestebanherrerah.github.io-6C63FF?style=for-the-badge)](https://juanestebanherrerah.github.io/Portafolio/)
 
 </div>
