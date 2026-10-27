@@ -1,279 +1,90 @@
-<div align="center">
+<p align="right">
+  <strong>Español</strong> · <a href="./README.en.md">English</a>
+</p>
 
-[![ES](https://img.shields.io/badge/🇨🇴_Español-Ver_en_Español-203a43?style=for-the-badge)](#-juan-esteban-herrera--ingeniería-de-sistemas)
-[![EN](https://img.shields.io/badge/🇺🇸_English-Read_in_English-2c5364?style=for-the-badge)](#-juan-esteban-herrera--systems-engineering)
+<p align="center">
+  <img src="./assets/profile-header.svg" alt="Juan Esteban Herrera · Desarrollo de software, sistemas e IA local" width="100%">
+</p>
 
-</div>
+<h1 align="center">Ideas que se convierten en herramientas.</h1>
 
----
+<p align="center">
+  <strong>Desarrollo de software junior · Aplicaciones web y de escritorio · IA local</strong><br>
+  Bogotá, Colombia · Prioridad remoto · Híbrido en Bogotá
+</p>
 
-<!-- ESPAÑOL -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20soy%20Juan%20Esteban%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Estudiante%20de%20Ingeniería%20de%20Sistemas%20·%20Builder%20en%20formación&descAlignY=58&descSize=16&descColor=a8d8ea" width="100%"/>
-</div>
-
-## 🇨🇴 Juan Esteban Herrera · Ingeniería de Sistemas
-
-### `> whoami`
-
-```yaml
-nombre:      Juan Esteban Herrera
-rol:         Estudiante de Ingeniería de Sistemas
-universidad: CUN — Corporación Unificada Nacional
-ubicación:   Colombia 🇨🇴
-estado:      Aprendiendo · Construyendo · Mejorando
-```
-
-Soy estudiante de Ingeniería de Sistemas apasionado por construir soluciones reales con código. Me interesa el desarrollo de software desde la arquitectura hasta el despliegue, pasando por UX, seguridad y redes. Creo que la mejor forma de aprender es haciendo — por eso cada proyecto que construyo intenta resolver un problema concreto.
-
-Actualmente explorando el ecosistema **Flutter**, **Next.js** y el mundo de las redes con enfoque en certificaciones **CCNA**.
+<p align="center">
+  <a href="https://juanestebanherrerah.github.io/Portafolio/"><strong>Explorar portafolio ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/juan-esteban-herrera-herrera/">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:jehproyectos@gmail.com">Contacto</a>
+</p>
 
 ---
 
-## 🧰 Tecnologías & Stack
+Soy **Juan Esteban Herrera Herrera**, Técnico Profesional en Soporte de Sistemas e Informática y estudiante de Ingeniería de Sistemas en la **CUN**.
 
-<div align="center">
+Construyo aplicaciones para **organizar información, procesar imágenes y archivos, conectar datos y trabajar con redes**. Mi experiencia se ha formado en proyectos personales, universitarios y colaborativos.
 
-### Lenguajes
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+## Herramientas que construyo
 
-### Frameworks & Librerías
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+| Proyecto | Qué puedes explorar |
+| :--- | :--- |
+| **[xIas](https://github.com/JuanEstebanHerreraH/xIas)**<br><sub>C# · .NET 8 · WPF · ONNX · Tesseract</sub> | Tablas y documentos en espacios de trabajo separados: OCR, limpieza, comparación y coincidencias con IA local. Conexión opcional con Google Sheets. **[Descargas ↗](https://github.com/JuanEstebanHerreraH/xIas/releases)** |
+| **[Recorta](https://github.com/JuanEstebanHerreraH/Recorta)**<br><sub>React · TypeScript · Tauri · Transformers.js</sub> | Eliminación de fondos con modelos preentrenados, corrección de máscaras, procesamiento por lotes y exportación con control de tamaño y DPI. **[Descargas ↗](https://github.com/JuanEstebanHerreraH/Recorta/releases)** |
+| **[Café Almacén](https://github.com/JuanEstebanHerreraH/Sistema_Trazabilidad_Cafetero)**<br><sub>Next.js · TypeScript · Supabase · PostgreSQL</sub> | Trazabilidad de café: productores, fincas, lotes, procesos, inventario, clientes y ventas conectados en una plataforma web. |
+| **[Vlanets](https://github.com/JuanEstebanHerreraH/Vlanets)**<br><sub>Flutter · Dart · Windows · Android</sub> | Subnetting IPv4/IPv6, VLSM, planificación de VLAN y generación de configuraciones Cisco IOS, con explicaciones y aprendizaje guiado. |
 
-### Runtime & Plataformas
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+<details>
+<summary><strong>Más herramientas: archivos, productividad, diseño y diagnóstico</strong></summary>
 
-### Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+- **[Arcionr](https://github.com/JuanEstebanHerreraH/Arcionr):** conversión y organización de archivos; operaciones con imágenes y PDF por lotes.
+- **[FileWatch](https://github.com/JuanEstebanHerreraH/FileWatch):** capturas comprimidas, historial y restauración de versiones de archivos en Windows.
+- **[StanSsion](https://github.com/JuanEstebanHerreraH/StanSsion):** sonidos ambiente, radio, música propia y herramientas para sesiones de concentración.
+- **[Iyiris](https://github.com/JuanEstebanHerreraH/Iyiris):** paletas de color, contraste, simulación de daltonismo y exportación para interfaces.
+- **[CoexFix](https://github.com/JuanEstebanHerreraH/Coexfix):** diagnóstico WiFi/Bluetooth con informes, simulación de ajustes, respaldo y reversión.
+- **[ApEn](https://github.com/JuanEstebanHerreraH/ApEn---App-File-Environment):** lanzador de aplicaciones con etiquetas y favoritos; clasificación de archivos por tipo.
 
-### Cloud & Deployment
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+Cada repositorio documenta sus requisitos, funciones y límites. Las funciones online —como radio o Google Sheets— requieren conexión.
 
-</div>
+</details>
 
----
+## También construyo en equipo
 
-## ⚙️ Enfoque Técnico
+**[TechMind · LogiTree](https://github.com/No-Country-simulation/g9-br-team-34-techmind)**  
+Proyecto colaborativo en el contexto de Oracle / Alura / No Country para organizar contenido técnico en un árbol de conocimiento. Participé como **full stack, con énfasis en backend**, trabajando en API REST, validación, persistencia y pruebas, además de contribuir al frontend.
 
-- Desarrollo de aplicaciones **offline-first** (ejecución local sin dependencia de red)
-- Construcción de software **multiplataforma** (desktop + mobile)
-- Aplicación de **arquitecturas limpias y modulares**
-- Gestión segura de datos (**encriptación y almacenamiento local**)
-- Enfoque en **rendimiento, privacidad y control del usuario**
+**[Dotaciones App](https://github.com/samuelgcruz/dotaciones-app)**  
+Proyecto desarrollado con un amigo. Mi aporte fue **full stack y base de datos**: catálogo, pedidos, disponibilidad y operaciones de inventario con Supabase/PostgreSQL.
 
-### 🚀 Líneas de Trabajo
+## Conocimientos que llevo a mis proyectos
 
-- 🔐 Software seguro y ejecución 100% local
-- 🌐 Sistemas con integración backend + frontend moderna
-- 📡 Redes y automatización (en progreso — CCNA path)
+| Área | Tecnologías y práctica |
+| :--- | :--- |
+| **Backend y datos** | Java, Spring Boot, APIs REST, SQL, PostgreSQL, Supabase y SQLite. |
+| **Web e interfaces** | TypeScript, JavaScript, React, Next.js, SvelteKit, HTML, CSS y Tailwind. |
+| **Escritorio y multiplataforma** | C#/.NET, WPF, Rust, Tauri, Flutter/Dart y Capacitor; Electron en proyectos de escritorio. |
+| **IA y automatización** | Integración de modelos preentrenados, ONNX, Transformers.js, OCR con Tesseract, PowerShell y fundamentos de Python. |
+| **Redes y soporte** | Windows, diagnóstico, IPv4/IPv6, subnetting, VLSM, VLAN, trunking, inter-VLAN, rutas, NAT, ACL y Cisco Packet Tracer. |
+| **Ofimática y documentación** | Excel básico/intermedio, práctica con macros, Word, PowerPoint y organización de información con IA. |
+| **Herramientas de trabajo** | Git/GitHub, Docker, Vercel, MockMvc y Vitest; práctica académica de despliegue en AWS. |
 
----
+Utilizo **desarrollo asistido por IA** para prototipar, iterar y documentar, con revisión del código y pruebas. En las funciones de IA de mis aplicaciones integro modelos existentes y explico sus requisitos y límites.
 
-## 🚀 Proyectos Destacados
+## Formación y siguiente paso
 
-<div align="center">
+- **Técnico Profesional en Soporte de Sistemas e Informática · CUN** — graduado el **26 de febrero de 2026**.
+- **Ingeniería de Sistemas · CUN** — en curso, en un programa por ciclos de 10 semestres y tres titulaciones. Próximo hito: título tecnológico previsto para **2027**.
+- **Oracle Next Education / Alura Latam** — formación en Java, Spring Boot y APIs REST.
+- **Preparación CCNA en curso.** Español nativo · Inglés A2.
 
-| Proyecto | Descripción | Stack | Estado |
-|---|---|---|---|
-| [🎧 StanSsion](https://github.com/JuanEstebanHerreraH/StanSsion) | Espacio de audio ambiente para estudiar y concentrarse: mezcla de sonidos, radios del mundo, música propia con playlists, Pomodoro, racha de estudio y lienzo de notas — 100% local, sin cuentas | `React` `TypeScript` `Vite` `Tauri` `Web Audio API` | ✅ Publicado |
-| [⬡ Vlanets](https://github.com/JuanEstebanHerreraH/Vlanets) | App móvil y de escritorio para subnetting, VLANs, NAT, ACL y configuración Cisco IOS con modo aprendizaje guiado | `Flutter` `Dart` `Android` `Windows` | ✅ Publicado |
-| [🎨 iyiris](https://github.com/JuanEstebanHerreraH/Iyiris) | Herramienta profesional de paletas de color: verificación WCAG 2.1, simulación de daltonismo, vista previa de UI y exportación (CSS/Tailwind/JSON) — sin backend · web + escritorio + Android | `SvelteKit` `TypeScript` `Tailwind CSS` `Tauri` `Android` `Vercel` | ✅ Publicado |
-| [☕ Café Almacén](https://github.com/JuanEstebanHerreraH/Cafe-Almacen) | Plataforma web de gestión integral para café especial: desde cosecha hasta venta final, con trazabilidad completa | `Next.js` `TypeScript` `Supabase` `Vercel` | ✅ Publicado |
-| [⚡ ApEn](https://github.com/JuanEstebanHerreraH/ApEn---App-File-Environment) | Hub de productividad personal para Windows: launcher de apps con etiquetas y favoritos, más organizador automático de archivos por tipo | `C#` `.NET 8` `WPF` `MVVM` `Windows` | ✅ Publicado |
-| [🗂️ FileWatch](https://github.com/JuanEstebanHerreraH/FileWatch) | Versionado automático de archivos para Windows — snapshots comprimidos, historial y restauración sin depender del editor | `Rust` `C#` `.NET 8` `WPF` `SQLite` | ✅ Publicado |
+Busco oportunidades **junior en desarrollo, soporte TI/redes y automatización**, y colaboraciones de alcance definido.
 
-</div>
-
-## 📚 Áreas de Interés
-
-<div align="center">
-
-| 🌐 Redes & Infraestructura | 💻 Desarrollo de Software | 🔐 Seguridad |
-|:---:|:---:|:---:|
-| Subnetting IPv4/IPv6 | Aplicaciones multiplataforma | Encriptación AES-256 |
-| VLANs · Routing · NAT | Arquitectura limpia | Manejo seguro de datos |
-| Protocolos OSPF · RIP | UI/UX funcional | Sistemas 100% offline |
-
-</div>
-
-
-## 🤝 Conectemos
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-esteban-herrera-herrera)
-[![Email](https://img.shields.io/badge/Email-Escribir-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estebanherreraherrera8@gmail.com)
-[![Portafolio](https://img.shields.io/badge/🌐_Portafolio-juanestebanherrerah.github.io-6C63FF?style=for-the-badge)](https://juanestebanherrerah.github.io/Portafolio/)
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
-
-*"El infinito nunca lo veremos pero lo comprenderemos."*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=JuanEstebanHerreraH&color=2c5364&style=flat-square&label=Visitas+al+perfil)
-</div>
-
-<br/>
-
----
----
-
-<!-- ENGLISH -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20I'm%20Juan%20Esteban%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineering%20Student%20·%20Builder%20in%20Progress&descAlignY=58&descSize=16&descColor=a8d8ea" width="100%"/>
-</div>
-
-## 🇺🇸 Juan Esteban Herrera · Systems Engineering
-
-### `> whoami`
-
-```yaml
-name:        Juan Esteban Herrera
-role:        Systems Engineering Student
-university:  CUN — Corporación Unificada Nacional
-location:    Colombia 🇨🇴
-status:      Learning · Building · Improving
-```
-
-I'm a Systems Engineering student passionate about building real-world solutions with code. My interests span the full software development lifecycle — from architecture and UX through to security and deployment. I believe the best way to learn is by doing, which is why every project I build tries to solve a concrete problem.
-
-Currently diving deep into the **Flutter** and **Next.js** ecosystems, and exploring the world of networking with a focus on **CCNA** certification.
+**[Conoce mis proyectos](https://juanestebanherrerah.github.io/Portafolio/) · [Conversemos](mailto:jehproyectos@gmail.com)**
 
 ---
 
-## 🧰 Tech Stack
-
-<div align="center">
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Runtime & Platforms
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### Cloud & Deployment
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
----
-
-## ⚙️ Technical Focus
-
-- **Offline-first** application development (fully local, no network dependency)
-- **Cross-platform** software (desktop + mobile from a single codebase)
-- Clean and modular **software architecture**
-- Secure data management (**encryption & local storage**)
-- Strong emphasis on **performance, privacy, and user control**
-
-### 🚀 Current Work Areas
-
-- 🔐 Secure software with 100% local execution
-- 🌐 Systems with modern backend + frontend integration
-- 📡 Networking & automation (in progress — CCNA path)
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack | Status |
-|---|---|---|---|
-| [🎧 StanSsion](https://github.com/JuanEstebanHerreraH/StanSsion) | Ambient-audio space to study and focus: sound mixing, worldwide radios, your own music with playlists, Pomodoro, study streak and a notes canvas — 100% local, no accounts | `React` `TypeScript` `Vite` `Tauri` `Web Audio API` | ✅ Published |
-| [⬡ Vlanets](https://github.com/JuanEstebanHerreraH/Vlanets) | Mobile & desktop app for subnetting, VLANs, NAT, ACL and Cisco IOS configuration with guided learning mode | `Flutter` `Dart` `Android` `Windows` | ✅ Published |
-| [🎨 iyiris](https://github.com/JuanEstebanHerreraH/Iyiris) | Professional color palette tool: WCAG 2.1 contrast checking, colorblind simulation, UI preview and export (CSS/Tailwind/JSON) — no backend · web + desktop + Android | `SvelteKit` `TypeScript` `Tailwind CSS` `Tauri` `Android` `Vercel` | ✅ Published |
-| [☕ Café Almacén](https://github.com/JuanEstebanHerreraH/Cafe-Almacen) | Full-featured web platform for specialty coffee management: from harvest to final sale, with complete traceability | `Next.js` `TypeScript` `Supabase` `Vercel` | ✅ Published |
-| [⚡ ApEn](https://github.com/JuanEstebanHerreraH/ApEn---App-File-Environment) | Personal productivity hub for Windows: app launcher with tags & favorites, plus automatic file organizer by type | `C#` `.NET 8` `WPF` `MVVM` `Windows` | ✅ Published |
-| [🗂️ FileWatch](https://github.com/JuanEstebanHerreraH/FileWatch) | Automatic file versioning for Windows — compressed snapshots, history and restore without relying on the editor | `Rust` `C#` `.NET 8` `WPF` `SQLite` | ✅ Published |
-
-</div>
-
-## 📚 Areas of Interest
-
-<div align="center">
-
-| 🌐 Networking & Infrastructure | 💻 Software Development | 🔐 Security |
-|:---:|:---:|:---:|
-| IPv4/IPv6 Subnetting | Cross-platform apps | AES-256 Encryption |
-| VLANs · Routing · NAT | Clean architecture | Secure data handling |
-| OSPF · RIP Protocols | Functional UI/UX | 100% offline systems |
-
-</div>
-
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-esteban-herrera-herrera)
-[![Email](https://img.shields.io/badge/Email-Write_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estebanherreraherrera8@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-juanestebanherrerah.github.io-6C63FF?style=for-the-badge)](https://juanestebanherrerah.github.io/Portafolio/)
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
-
-*"We will never see infinity — but we can understand it."*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=JuanEstebanHerreraH&color=2c5364&style=flat-square&label=Profile+views)
-</div>
+<p align="center">
+  <sub>«El infinito nunca lo veremos, pero lo comprenderemos.»</sub>
+</p>
