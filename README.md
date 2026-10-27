@@ -98,6 +98,10 @@ Busco oportunidades **junior en desarrollo, soporte TI/redes y automatización**
 <a name="english"></a>
 
 <p align="center">
+  <img src="./assets/profile-header.svg" alt="Juan Esteban Herrera · Software, sistemas e IA local / Software, systems and local AI" width="100%">
+</p>
+
+<p align="center">
   <a href="https://github.com/JuanEstebanHerreraH#espanol"><strong>Español</strong></a>
   &nbsp; · &nbsp;
   <a href="https://github.com/JuanEstebanHerreraH#english"><strong>English</strong></a>
