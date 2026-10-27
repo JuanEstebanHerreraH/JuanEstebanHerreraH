@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="330" viewBox="0 0 1280 330" role="img" aria-labelledby="title desc">
+<title id="title">Juan Esteban Herrera — Ideas into tools</title>
+<desc id="desc">A blue aurora, a geometric wheel and connected points frame Juan Esteban Herrera's development portfolio.</desc>
+<defs>
+<linearGradient id="sky" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#101c2a"/><stop offset=".55" stop-color="#173744"/><stop offset="1" stop-color="#102632"/></linearGradient>
+<linearGradient id="aurora" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#a9e1bf" stop-opacity=".03"/><stop offset=".5" stop-color="#a9e1bf" stop-opacity=".26"/><stop offset="1" stop-color="#78b3ce" stop-opacity=".01"/></linearGradient>
+<linearGradient id="line" x1="0" x2="1"><stop stop-color="#8ed6bf" stop-opacity="0"/><stop offset=".5" stop-color="#b8e8cb" stop-opacity=".7"/><stop offset="1" stop-color="#82b4da" stop-opacity="0"/></linearGradient>
+<radialGradient id="core"><stop stop-color="#a3d8c4" stop-opacity=".11"/><stop offset="1" stop-color="#a3d8c4" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="45" height="45" patternUnits="userSpaceOnUse"><path d="M45 0H0V45" fill="none" stroke="#b9d8ca" stroke-opacity=".035"/></pattern>
+<clipPath id="frame"><rect width="1280" height="330" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1280" height="330" fill="url(#sky)"/>
+<rect width="1280" height="330" fill="url(#grid)"/>
+<path d="M-80 35C180 190 310-160 650 10S1090 150 1370-40L1370 65C1080 230 930 82 650 65S150 290-80 110Z" fill="url(#aurora)"/>
+<path d="M-30 17C250 160 380-150 710 34S1110 80 1350 18" fill="none" stroke="url(#line)" stroke-width="1"/>
+<path d="M-10 280C300 290 530 205 700 258S1080 390 1300 265" fill="none" stroke="#bde0c2" stroke-opacity=".1"/>
+<path d="M-10 295C300 305 530 220 700 273S1080 405 1300 280" fill="none" stroke="#bde0c2" stroke-opacity=".07"/>
+<g fill="#c5e4ce" opacity=".36"><circle cx="742" cy="53" r="1"/><circle cx="1196" cy="76" r="1"/><circle cx="1118" cy="272" r="1.2"/><circle cx="820" cy="280" r=".8"/><circle cx="606" cy="85" r="1"/><circle cx="1251" cy="220" r=".8"/></g>
+
+<path d="M51 48h19m-19 0v19M1229 48h-19m19 0v19M51 282h19m-19 0v-19M1229 282h-19m19 0v-19" stroke="#b7d6c1" stroke-opacity=".5" fill="none"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="84" y="91" fill="#b6d7cb" font-size="11" letter-spacing="3">SOFTWARE · SYSTEMS · LOCAL AI</text>
+<text x="80" y="157" fill="#f1f0df" font-size="47" font-weight="700" letter-spacing="1">JUAN ESTEBAN</text>
+<text x="80" y="211" fill="#cce3ab" font-size="47" font-weight="400" letter-spacing="5">HERRERA</text>
+<rect x="84" y="239" width="35" height="2" fill="#dc8b68"/>
+<text x="134" y="244" fill="#acc6c9" font-size="11" letter-spacing="2">IDEAS INTO TOOLS</text>
+</g>
+
+<circle cx="952" cy="164" r="145" fill="url(#core)"/>
+<g fill="none" stroke="url(#line)" stroke-width=".8">
+<ellipse cx="952" cy="164" rx="165" ry="94" transform="rotate(-18 952 164)"/>
+<ellipse cx="952" cy="164" rx="165" ry="94" transform="rotate(45 952 164)"/>
+</g>
+<path d="M804 113 952 164 1080 74M952 164 1110 211M952 164 837 258" fill="none" stroke="#bad8cb" stroke-width=".7" stroke-opacity=".22" stroke-dasharray="3 6"/>
+<g fill="#cce3ab"><circle cx="804" cy="113" r="3"/><circle cx="1080" cy="74" r="3"/><circle cx="1110" cy="211" r="3"/><circle cx="837" cy="258" r="3"/></g>
+<g fill="#c1d8cd" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1.4">
+<text x="757" y="102">BUILD</text><text x="1093" y="78">CONNECT</text><text x="1124" y="215">REFINE</text><text x="775" y="281">AUTOMATE</text>
+</g>
+<circle cx="952" cy="164" r="53" fill="none" stroke="#b8dec9" stroke-opacity=".16"/>
+<g fill="none" stroke="#c2e2cb" stroke-width="1" opacity=".75">
+<g>
+<animateTransform attributeName="transform" type="rotate" from="0 952 164" to="360 952 164" dur="48s" repeatCount="indefinite"/>
+<circle cx="952" cy="164" r="34"/>
+<path d="M952 116v96M904 164h96M918 130l68 68M918 198l68-68"/>
+<path d="m945 119 7-4 7 4m38 38 4 7-4 7m-38 38-7 4-7-4m-38-38-4-7 4-7"/>
+</g>
+<circle cx="952" cy="164" r="11" fill="#16323d"/>
+</g>
+<circle cx="952" cy="164" r="3" fill="#cce3ab"/>
+</g>
+</svg>
