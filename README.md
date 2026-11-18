@@ -35,17 +35,20 @@ Construyo aplicaciones para **organizar información, procesar imágenes y archi
 
 | Proyecto | Qué puedes explorar |
 | :--- | :--- |
-| **[xIas](https://github.com/JuanEstebanHerreraH/xIas)**<br><sub>C# · .NET 8 · WPF · ONNX · Tesseract</sub> | Tablas y documentos en espacios de trabajo separados: OCR, limpieza, comparación y coincidencias con IA local. Conexión opcional con Google Sheets. **[Descargas ↗](https://github.com/JuanEstebanHerreraH/xIas/releases)** |
-| **[Recorta](https://github.com/JuanEstebanHerreraH/Recorta)**<br><sub>React · TypeScript · Tauri · Transformers.js</sub> | Eliminación de fondos con modelos preentrenados, corrección de máscaras, procesamiento por lotes y exportación con control de tamaño y DPI. **[Descargas ↗](https://github.com/JuanEstebanHerreraH/Recorta/releases)** |
-| **[Café Almacén](https://github.com/JuanEstebanHerreraH/Sistema_Trazabilidad_Cafetero)**<br><sub>Next.js · TypeScript · Supabase · PostgreSQL</sub> | Trazabilidad de café: productores, fincas, lotes, procesos, inventario, clientes y ventas conectados en una plataforma web. |
-| **[Vlanets](https://github.com/JuanEstebanHerreraH/Vlanets)**<br><sub>Flutter · Dart · Windows · Android</sub> | Subnetting IPv4/IPv6, VLSM, planificación de VLAN y generación de configuraciones Cisco IOS, con explicaciones y aprendizaje guiado. |
+| **[Retazos](https://github.com/JuanEstebanHerreraH/Retazos)**<br><sub>HTML · CSS · JavaScript</sub> | Web de papelería inspirada en los barrios de Buenos Aires: colección, recorridos y catálogo adaptable. Desarrollo web propio; diseño e identidad visual de [Evelin Standke](https://www.linkedin.com/in/evelin-standke-624773318/). **[Ver la web ↗](https://retazoscaba.vercel.app/)** |
+| **[DpIA](https://github.com/JuanEstebanHerreraH/DpIA)**<br><sub>TypeScript · Tauri · Capacitor · ONNX</sub> | Edición fotográfica local para Windows y Android: ajustes de imagen, superresolución con IA opcional y preparación para impresión, sin subir las fotos a un servidor. |
+| **[Recorta](https://github.com/JuanEstebanHerreraH/Recorta)**<br><sub>React · TypeScript · Tauri · Transformers.js</sub> | Eliminación de fondos con IA local, retoque manual de bordes y procesamiento por lotes. Exportación PNG con control de tamaño, DPI y peso. **[Descargas ↗](https://github.com/JuanEstebanHerreraH/Recorta/releases)** |
+| **[StanSsion](https://github.com/JuanEstebanHerreraH/StanSsion)**<br><sub>React · TypeScript · Web Audio API · IndexedDB</sub> | Espacio de concentración con sonidos ambiente, radio, música propia, temporizadores y un lienzo para notas y tareas. Preferencias y archivos guardados en el navegador. **[Probar la app ↗](https://stan-ssion.vercel.app/)** |
+| **[Arcionr](https://github.com/JuanEstebanHerreraH/Arcionr)**<br><sub>React · Rust · Tauri · Capacitor</sub> | Conversión local de imágenes y creación de PDF en escritorio y Android. En escritorio añade gestión de páginas, organización de carpetas y audio/video con FFmpeg opcional. |
+| **[Café Almacén · Trazabilidad cafetera](https://github.com/JuanEstebanHerreraH/Sistema_Trazabilidad_Cafetero)**<br><sub>Next.js · TypeScript · Supabase · PostgreSQL</sub> | Gestión y trazabilidad de café especial desde la finca hasta la venta: productores, lotes, procesos, almacenes, inventario, clientes y roles de acceso. |
 
 <details>
-<summary><strong>Más herramientas: archivos, productividad, diseño y diagnóstico</strong></summary>
+<summary><strong>Más herramientas: datos, redes, archivos y diseño</strong></summary>
 
-- **[Arcionr](https://github.com/JuanEstebanHerreraH/Arcionr):** conversión y organización de archivos; operaciones con imágenes y PDF por lotes.
+- **[xIas](https://github.com/JuanEstebanHerreraH/xIas):** tablas e inventarios, OCR, comparación de documentos y coincidencias con IA local. Exportación a Excel/CSV y conexión opcional a Google Sheets.
+- **[Vlanets](https://github.com/JuanEstebanHerreraH/Vlanets):** subnetting IPv4/IPv6, VLSM, planificación de VLAN y configuraciones Cisco IOS con aprendizaje guiado.
+
 - **[FileWatch](https://github.com/JuanEstebanHerreraH/FileWatch):** capturas comprimidas, historial y restauración de versiones de archivos en Windows.
-- **[StanSsion](https://github.com/JuanEstebanHerreraH/StanSsion):** sonidos ambiente, radio, música propia y herramientas para sesiones de concentración.
 - **[Iyiris](https://github.com/JuanEstebanHerreraH/Iyiris):** paletas de color, contraste, simulación de daltonismo y exportación para interfaces.
 - **[CoexFix](https://github.com/JuanEstebanHerreraH/Coexfix):** diagnóstico WiFi/Bluetooth con informes, simulación de ajustes, respaldo y reversión.
 - **[ApEn](https://github.com/JuanEstebanHerreraH/ApEn---App-File-Environment):** lanzador de aplicaciones con etiquetas y favoritos; clasificación de archivos por tipo.
@@ -132,17 +135,20 @@ I build applications to **organize information, process images and files, connec
 
 | Project | What you can explore |
 | :--- | :--- |
-| **[xIas](https://github.com/JuanEstebanHerreraH/xIas)**<br><sub>C# · .NET 8 · WPF · ONNX · Tesseract</sub> | Tables and documents in separate workspaces: OCR, cleaning, comparisons and local AI matching. Optional Google Sheets connectivity. **[Downloads ↗](https://github.com/JuanEstebanHerreraH/xIas/releases)** |
-| **[Recorta](https://github.com/JuanEstebanHerreraH/Recorta)**<br><sub>React · TypeScript · Tauri · Transformers.js</sub> | Background removal with pretrained models, mask corrections, batch processing and exports with size and DPI controls. **[Downloads ↗](https://github.com/JuanEstebanHerreraH/Recorta/releases)** |
-| **[Café Almacén](https://github.com/JuanEstebanHerreraH/Sistema_Trazabilidad_Cafetero)**<br><sub>Next.js · TypeScript · Supabase · PostgreSQL</sub> | Coffee traceability: producers, farms, lots, processes, inventory, customers and sales connected in one web platform. |
-| **[Vlanets](https://github.com/JuanEstebanHerreraH/Vlanets)**<br><sub>Flutter · Dart · Windows · Android</sub> | IPv4/IPv6 subnetting, VLSM, VLAN planning and Cisco IOS configuration generation, with explanations and guided learning. |
+| **[Retazos](https://github.com/JuanEstebanHerreraH/Retazos)**<br><sub>HTML · CSS · JavaScript</sub> | Stationery brand website inspired by Buenos Aires neighborhoods: collection, walking routes and a responsive catalog. Web development by me; design and visual identity by [Evelin Standke](https://www.linkedin.com/in/evelin-standke-624773318/). **[Visit the website ↗](https://retazoscaba.vercel.app/)** |
+| **[DpIA](https://github.com/JuanEstebanHerreraH/DpIA)**<br><sub>TypeScript · Tauri · Capacitor · ONNX</sub> | Local photo editing for Windows and Android: image adjustments, optional AI super-resolution and print preparation, without uploading photos to a server. |
+| **[Recorta](https://github.com/JuanEstebanHerreraH/Recorta)**<br><sub>React · TypeScript · Tauri · Transformers.js</sub> | Background removal with local AI, manual edge refinement and batch processing. PNG exports with size, DPI and file weight controls. **[Downloads ↗](https://github.com/JuanEstebanHerreraH/Recorta/releases)** |
+| **[StanSsion](https://github.com/JuanEstebanHerreraH/StanSsion)**<br><sub>React · TypeScript · Web Audio API · IndexedDB</sub> | A focus workspace with ambient sounds, radio, personal music, timers and a canvas for notes and tasks. Preferences and files stay in the browser. **[Try the app ↗](https://stan-ssion.vercel.app/)** |
+| **[Arcionr](https://github.com/JuanEstebanHerreraH/Arcionr)**<br><sub>React · Rust · Tauri · Capacitor</sub> | Local image conversion and PDF creation on desktop and Android. Desktop adds PDF page management, folder organization and optional audio/video conversion with FFmpeg. |
+| **[Café Almacén · Coffee traceability](https://github.com/JuanEstebanHerreraH/Sistema_Trazabilidad_Cafetero)**<br><sub>Next.js · TypeScript · Supabase · PostgreSQL</sub> | Specialty coffee management and traceability from farm to sale: producers, lots, processes, warehouses, inventory, customers and access roles. |
 
 <details>
-<summary><strong>More tools: files, productivity, design and diagnostics</strong></summary>
+<summary><strong>More tools: data, networking, files and design</strong></summary>
 
-- **[Arcionr](https://github.com/JuanEstebanHerreraH/Arcionr):** file conversion and organization; batch image and PDF operations.
+- **[xIas](https://github.com/JuanEstebanHerreraH/xIas):** tables and inventories, OCR, document comparison and local AI matching. Excel/CSV exports and optional Google Sheets connectivity.
+- **[Vlanets](https://github.com/JuanEstebanHerreraH/Vlanets):** IPv4/IPv6 subnetting, VLSM, VLAN planning and Cisco IOS configurations with guided learning.
+
 - **[FileWatch](https://github.com/JuanEstebanHerreraH/FileWatch):** compressed snapshots, history and file version restoration on Windows.
-- **[StanSsion](https://github.com/JuanEstebanHerreraH/StanSsion):** ambient sounds, radio, personal music and tools for focused sessions.
 - **[Iyiris](https://github.com/JuanEstebanHerreraH/Iyiris):** color palettes, contrast checks, color vision simulations and interface-ready exports.
 - **[CoexFix](https://github.com/JuanEstebanHerreraH/Coexfix):** WiFi/Bluetooth diagnostics with reports, adjustment previews, backup and rollback.
 - **[ApEn](https://github.com/JuanEstebanHerreraH/ApEn---App-File-Environment):** application launcher with labels and favorites, plus file sorting by type.
